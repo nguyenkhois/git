@@ -1,0 +1,3 @@
+Create new file for testing VIM
+First modifying for file1.txt
+Second modifying in file1.txt

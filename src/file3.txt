@@ -1,0 +1,2 @@
+Create file 3 for testing GIT with folder
+Modify file 3 on first time

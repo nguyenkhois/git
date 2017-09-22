@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+Khoi Le: Jag heter Khoi
+=======
+Joel
+hej på dig vad gör du
+>>>>>>> 1d2ce6129d4285adbb0980e7297cce6057853ef5
